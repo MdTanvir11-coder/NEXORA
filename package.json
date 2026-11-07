@@ -1,0 +1,10 @@
+{
+  "name": "nexora-technologies-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NEXORA TECHNOLOGIES website with Neon PostgreSQL inquiry storage and email notifications",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
